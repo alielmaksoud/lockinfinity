@@ -565,6 +565,8 @@ b, strong {
     vertical-align: top;
   }
 }
+
+
 .faq .card-header {
   padding: 0;
 }
@@ -652,7 +654,7 @@ b, strong {
 }
 
 .faq-info-text {
-  font-size: ;
+
   display: block;
   margin: 1.5rem 2rem 0 2rem;
 }
